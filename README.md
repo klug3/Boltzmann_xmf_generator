@@ -6,7 +6,7 @@
 
 ## Requirements:
 - Any version of Python 3.x.
-- No additional Python modules needed.
+- No additional Python modules required.
 
 ## How to use:
 - Download Boltzmann_generator.pyw and place in directory with dE and ddG data files
